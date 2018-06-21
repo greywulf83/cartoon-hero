@@ -4,9 +4,14 @@ html, body{
 }
 
 header{
-	background-color: #0000cc;
+	background-color: #000066;
 	padding: 40px;
 	text-align: center;
+}
+
+body{
+	background-color: black;
+	color: blue;
 }
 
 h1{
@@ -14,10 +19,15 @@ h1{
 	color: white;
 }
 
+h2{
+	text-align: center;
+	text-decoration: underline;
+}
+
 header img{
 	border-radius: 175px;
 	width: 400px;
-	border: 10px solid #ff6600;
+	border: 5px solid #000000;
 }
 
 .content{
@@ -37,14 +47,18 @@ p.caption{
 }
 
 ul{
-	list-style: none;
-	padding: 0;
+	padding: 50;
 	margin: 0;
 }
 
 a{
 	color: blue;
 	text-decoration: none;
+	font-style: italic;
+}
+
+a:hover{
+	background-color: orange;
 }
 
 footer{
