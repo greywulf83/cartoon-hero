@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"fs",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border-right\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"c",
+				"c\tcolor: #${1:000};"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"emm",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robbiej/Documents/Skill Share Projects/1_cartoon-hero/css/hero.css",
+		"/Users/robbiej/Documents/Skill Share Projects/1_cartoon-hero/README.md",
+		"/Users/robbiej/Documents/Skill Share Projects/1_cartoon-hero/css/test.css",
+		"/Users/robbiej/Documents/Skill Share Projects/1_cartoon-hero/stylish.html",
+		"/Users/robbiej/Documents/Skill Share Projects/1_cartoon-hero/test.html",
+		"/Users/robbiej/Documents/Skill Share Projects/2_projects/MyRecipe/style.css",
+		"/Users/robbiej/Documents/Skill Share Projects/2_projects/MyRecipe/js/html5shiv.js",
+		"/Users/robbiej/Documents/Skill Share Projects/2_projects/MyRecipe/js/picturefill.min.js",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/Robert_Jean/Robert_Jean/array.cpp",
+		"/Volumes/My Passport Ultra/Stuff/Unity Projects/Ball Shooter Concept/Assets/Scripts/GateKeyController.cs",
+		"/Volumes/My Passport Ultra/Stuff/Unity Projects/Ball Shooter Concept/Assets/Scripts/CameraController.cs",
+		"/Users/robbiej/Documents/Unity Projects/Maze Game Concept/Assets/Scripts/GameController.cs",
+		"/Volumes/My Passport Ultra/Stuff/Unity Project Tutorials/Space Shooter/Builds/Space Shooter Project_Data/Mono/etc/mono/mconfig/config.xml",
+		"/Volumes/My Passport Ultra/Stuff/Unity Projects/Maze Game/Assets/Scripts/GameController.cs",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/Robert_Jean/Robert_Jean/check.cpp",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/Robert_Jean/Robert_Jean/check.h",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/Robert_Jean/Robert_Jean/main.cpp",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/School Stuff/May12/School/SG430 game porting/dodge_tank/game.py",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/School Stuff/May12/School/SG220(Aug-Oct10)/SG220_Lab1(2)/SG220_Lab1/SG220_Lab1/SG220_Lab1/main.cpp",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/School Stuff/May12/School/OldSchoolStuff/Labs & Stuff/Arena/Arena/Arena/Arena/Main.cpp",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/School Stuff/May12/School/OldSchoolStuff/Labs & Stuff/SG210_KGA3/paddle_game/winmain.cpp",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/School Stuff/May12/School/OldSchoolStuff/Labs & Stuff/SG210_KGA3/paddle_game/dxgraphics.cpp",
+		"/Volumes/My Passport Ultra/Stuff/Unity Projects/Maze Game/Assets/Scripts/GateKeyController.cs",
+		"/Volumes/My Passport Ultra/Documents/MyDocs/School Stuff/Arena/Arena/Main.cpp",
+		"/Users/robbiej/Desktop/Projects/MyRecipe/js/picturefill.min.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
