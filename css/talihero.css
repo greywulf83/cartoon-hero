@@ -4,14 +4,14 @@ html, body{
 }
 
 header{
-	background-color: #000066;
+	background-color: #ff8c00;
 	padding: 40px;
 	text-align: center;
 }
 
 body{
 	background-color: black;
-	color: blue;
+	color: darkorange;
 }
 
 h1{
@@ -52,13 +52,13 @@ ul{
 }
 
 a{
-	color: blue;
+	color: darkorange;
 	text-decoration: none;
 	font-style: italic;
 }
 
 a:hover{
-	background-color: orange;
+	background-color: blue;
 }
 
 footer{
